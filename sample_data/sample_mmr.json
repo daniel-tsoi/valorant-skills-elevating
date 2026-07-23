@@ -1,0 +1,51 @@
+{
+  "status": 200,
+  "data": {
+    "account": {
+      "name": "SampleAgent",
+      "tag": "NA1",
+      "puuid": "sample-puuid-0000"
+    },
+    "current": {
+      "tier": {
+        "id": 15,
+        "name": "Diamond 1"
+      },
+      "rr": 47,
+      "elo": 1547,
+      "last_change": 12,
+      "games_needed_for_rating": 0,
+      "rank_protection_shields": 0,
+      "leaderboard_placement": null
+    },
+    "peak": {
+      "season": {
+        "id": "season-id",
+        "short": "e9a1"
+      },
+      "tier": {
+        "id": 17,
+        "name": "Diamond 3"
+      },
+      "rr": 60,
+      "ranking_schema": "current"
+    },
+    "seasonal": [
+      {
+        "season": {
+          "id": "season-id",
+          "short": "e9a1"
+        },
+        "wins": 34,
+        "games": 68,
+        "end_tier": {
+          "id": 15,
+          "name": "Diamond 1"
+        },
+        "end_rr": 47,
+        "ranking_schema": "current",
+        "act_wins": []
+      }
+    ]
+  }
+}

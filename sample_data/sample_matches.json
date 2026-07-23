@@ -1,0 +1,6979 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Sunset"
+        },
+        "match_id": "sample-match-0",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-01T15:00:00Z",
+        "game_length_in_ms": 1634272,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 3759,
+            "kills": 17,
+            "deaths": 12,
+            "assists": 3,
+            "headshots": 6,
+            "bodyshots": 32,
+            "legshots": 0,
+            "damage": 3233
+          },
+          "economy": {
+            "spent": 15488,
+            "loadout_value": 21535
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 608,
+            "kills": 8,
+            "deaths": 16,
+            "assists": 4,
+            "headshots": 10,
+            "bodyshots": 11,
+            "legshots": 1,
+            "damage": 3839
+          },
+          "economy": {
+            "spent": 24654,
+            "loadout_value": 24557
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 688,
+            "kills": 20,
+            "deaths": 10,
+            "assists": 7,
+            "headshots": 7,
+            "bodyshots": 9,
+            "legshots": 1,
+            "damage": 2881
+          },
+          "economy": {
+            "spent": 20514,
+            "loadout_value": 21674
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 482,
+            "kills": 21,
+            "deaths": 13,
+            "assists": 5,
+            "headshots": 2,
+            "bodyshots": 12,
+            "legshots": 0,
+            "damage": 3550
+          },
+          "economy": {
+            "spent": 16291,
+            "loadout_value": 29044
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 484,
+            "kills": 17,
+            "deaths": 11,
+            "assists": 2,
+            "headshots": 2,
+            "bodyshots": 15,
+            "legshots": 1,
+            "damage": 3185
+          },
+          "economy": {
+            "spent": 16307,
+            "loadout_value": 23814
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 442,
+            "kills": 15,
+            "deaths": 18,
+            "assists": 6,
+            "headshots": 4,
+            "bodyshots": 10,
+            "legshots": 2,
+            "damage": 2858
+          },
+          "economy": {
+            "spent": 19374,
+            "loadout_value": 21169
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 572,
+            "kills": 19,
+            "deaths": 11,
+            "assists": 3,
+            "headshots": 9,
+            "bodyshots": 11,
+            "legshots": 2,
+            "damage": 4281
+          },
+          "economy": {
+            "spent": 18598,
+            "loadout_value": 25313
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 416,
+            "kills": 21,
+            "deaths": 8,
+            "assists": 6,
+            "headshots": 8,
+            "bodyshots": 9,
+            "legshots": 0,
+            "damage": 2864
+          },
+          "economy": {
+            "spent": 24292,
+            "loadout_value": 25155
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 502,
+            "kills": 22,
+            "deaths": 22,
+            "assists": 8,
+            "headshots": 4,
+            "bodyshots": 9,
+            "legshots": 1,
+            "damage": 3010
+          },
+          "economy": {
+            "spent": 24197,
+            "loadout_value": 28830
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 518,
+            "kills": 22,
+            "deaths": 17,
+            "assists": 7,
+            "headshots": 7,
+            "bodyshots": 8,
+            "legshots": 1,
+            "damage": 4087
+          },
+          "economy": {
+            "spent": 23085,
+            "loadout_value": 21489
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 7
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": false,
+          "rounds": {
+            "won": 7,
+            "lost": 13
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 39,
+            "loadout_value": 3370
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 152,
+            "loadout_value": 1060
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 135,
+            "loadout_value": 1829
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 174,
+            "loadout_value": 3752
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 196,
+            "loadout_value": 3425
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 111,
+            "loadout_value": 1447
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 128,
+            "loadout_value": 3920
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 160,
+            "loadout_value": 2022
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 39,
+            "loadout_value": 2331
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 153,
+            "loadout_value": 2127
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 92,
+            "loadout_value": 4399
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 61,
+            "loadout_value": 1037
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 21,
+            "loadout_value": 3797
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 194,
+            "loadout_value": 2981
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 168,
+            "loadout_value": 2746
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 67,
+            "loadout_value": 2961
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 54,
+            "loadout_value": 4604
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 182,
+            "loadout_value": 2076
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 112,
+            "loadout_value": 4484
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 63,
+            "loadout_value": 1720
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Haven"
+        },
+        "match_id": "sample-match-1",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-02T15:00:00Z",
+        "game_length_in_ms": 2363425,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 3085,
+            "kills": 17,
+            "deaths": 10,
+            "assists": 3,
+            "headshots": 6,
+            "bodyshots": 18,
+            "legshots": 0,
+            "damage": 2484
+          },
+          "economy": {
+            "spent": 23423,
+            "loadout_value": 23899
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 469,
+            "kills": 16,
+            "deaths": 10,
+            "assists": 8,
+            "headshots": 5,
+            "bodyshots": 12,
+            "legshots": 3,
+            "damage": 2779
+          },
+          "economy": {
+            "spent": 16545,
+            "loadout_value": 21588
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 593,
+            "kills": 14,
+            "deaths": 15,
+            "assists": 1,
+            "headshots": 3,
+            "bodyshots": 5,
+            "legshots": 3,
+            "damage": 3389
+          },
+          "economy": {
+            "spent": 16790,
+            "loadout_value": 24073
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 607,
+            "kills": 10,
+            "deaths": 14,
+            "assists": 3,
+            "headshots": 6,
+            "bodyshots": 12,
+            "legshots": 1,
+            "damage": 2308
+          },
+          "economy": {
+            "spent": 22260,
+            "loadout_value": 29016
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 351,
+            "kills": 9,
+            "deaths": 22,
+            "assists": 4,
+            "headshots": 4,
+            "bodyshots": 11,
+            "legshots": 3,
+            "damage": 3971
+          },
+          "economy": {
+            "spent": 18502,
+            "loadout_value": 26570
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 568,
+            "kills": 8,
+            "deaths": 14,
+            "assists": 5,
+            "headshots": 9,
+            "bodyshots": 9,
+            "legshots": 3,
+            "damage": 4276
+          },
+          "economy": {
+            "spent": 22973,
+            "loadout_value": 22536
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 377,
+            "kills": 17,
+            "deaths": 19,
+            "assists": 1,
+            "headshots": 7,
+            "bodyshots": 5,
+            "legshots": 0,
+            "damage": 4392
+          },
+          "economy": {
+            "spent": 22811,
+            "loadout_value": 28238
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 437,
+            "kills": 8,
+            "deaths": 16,
+            "assists": 2,
+            "headshots": 4,
+            "bodyshots": 6,
+            "legshots": 0,
+            "damage": 2963
+          },
+          "economy": {
+            "spent": 21615,
+            "loadout_value": 21964
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 489,
+            "kills": 17,
+            "deaths": 17,
+            "assists": 1,
+            "headshots": 3,
+            "bodyshots": 11,
+            "legshots": 2,
+            "damage": 3068
+          },
+          "economy": {
+            "spent": 18346,
+            "loadout_value": 25147
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 420,
+            "kills": 18,
+            "deaths": 18,
+            "assists": 5,
+            "headshots": 9,
+            "bodyshots": 10,
+            "legshots": 0,
+            "damage": 2038
+          },
+          "economy": {
+            "spent": 22508,
+            "loadout_value": 29224
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 10
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": false,
+          "rounds": {
+            "won": 10,
+            "lost": 13
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 137,
+            "loadout_value": 1673
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 89,
+            "loadout_value": 4408
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 94,
+            "loadout_value": 1967
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 156,
+            "loadout_value": 4105
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 170,
+            "loadout_value": 4146
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 34,
+            "loadout_value": 1883
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 190,
+            "loadout_value": 3066
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 154,
+            "loadout_value": 1662
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 175,
+            "loadout_value": 3397
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 64,
+            "loadout_value": 4508
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 23,
+            "loadout_value": 3398
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 11,
+            "loadout_value": 814
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 163,
+            "loadout_value": 1872
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 141,
+            "loadout_value": 3690
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 28,
+            "loadout_value": 1108
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 139,
+            "loadout_value": 947
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 110,
+            "loadout_value": 1322
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 10,
+            "loadout_value": 4481
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 170,
+            "loadout_value": 1221
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 158,
+            "loadout_value": 3869
+          }
+        },
+        {
+          "id": 21,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 41,
+            "loadout_value": 4076
+          }
+        },
+        {
+          "id": 22,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 6,
+            "loadout_value": 1534
+          }
+        },
+        {
+          "id": 23,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 200,
+            "loadout_value": 4612
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Sunset"
+        },
+        "match_id": "sample-match-2",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-03T21:00:00Z",
+        "game_length_in_ms": 2480188,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 3416,
+            "kills": 18,
+            "deaths": 12,
+            "assists": 3,
+            "headshots": 4,
+            "bodyshots": 18,
+            "legshots": 0,
+            "damage": 2796
+          },
+          "economy": {
+            "spent": 22541,
+            "loadout_value": 25728
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 414,
+            "kills": 8,
+            "deaths": 18,
+            "assists": 4,
+            "headshots": 8,
+            "bodyshots": 10,
+            "legshots": 2,
+            "damage": 2284
+          },
+          "economy": {
+            "spent": 19573,
+            "loadout_value": 25753
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 646,
+            "kills": 21,
+            "deaths": 16,
+            "assists": 6,
+            "headshots": 2,
+            "bodyshots": 6,
+            "legshots": 2,
+            "damage": 2731
+          },
+          "economy": {
+            "spent": 24512,
+            "loadout_value": 24349
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 522,
+            "kills": 13,
+            "deaths": 19,
+            "assists": 6,
+            "headshots": 8,
+            "bodyshots": 14,
+            "legshots": 0,
+            "damage": 3577
+          },
+          "economy": {
+            "spent": 24446,
+            "loadout_value": 23114
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 300,
+            "kills": 16,
+            "deaths": 22,
+            "assists": 4,
+            "headshots": 7,
+            "bodyshots": 11,
+            "legshots": 0,
+            "damage": 3352
+          },
+          "economy": {
+            "spent": 20143,
+            "loadout_value": 22041
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 558,
+            "kills": 12,
+            "deaths": 18,
+            "assists": 7,
+            "headshots": 7,
+            "bodyshots": 11,
+            "legshots": 2,
+            "damage": 4270
+          },
+          "economy": {
+            "spent": 17085,
+            "loadout_value": 23143
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 646,
+            "kills": 19,
+            "deaths": 22,
+            "assists": 3,
+            "headshots": 6,
+            "bodyshots": 11,
+            "legshots": 0,
+            "damage": 3244
+          },
+          "economy": {
+            "spent": 19700,
+            "loadout_value": 23443
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 610,
+            "kills": 18,
+            "deaths": 13,
+            "assists": 8,
+            "headshots": 9,
+            "bodyshots": 12,
+            "legshots": 1,
+            "damage": 4093
+          },
+          "economy": {
+            "spent": 22752,
+            "loadout_value": 22780
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 562,
+            "kills": 18,
+            "deaths": 18,
+            "assists": 6,
+            "headshots": 3,
+            "bodyshots": 8,
+            "legshots": 2,
+            "damage": 2920
+          },
+          "economy": {
+            "spent": 18262,
+            "loadout_value": 22414
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 542,
+            "kills": 17,
+            "deaths": 21,
+            "assists": 2,
+            "headshots": 9,
+            "bodyshots": 11,
+            "legshots": 1,
+            "damage": 3572
+          },
+          "economy": {
+            "spent": 23099,
+            "loadout_value": 26547
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 7,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 7
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 192,
+            "loadout_value": 4324
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 199,
+            "loadout_value": 2541
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 12,
+            "loadout_value": 3083
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 116,
+            "loadout_value": 1346
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 193,
+            "loadout_value": 4451
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 140,
+            "loadout_value": 2626
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 115,
+            "loadout_value": 1861
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 196,
+            "loadout_value": 3985
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 70,
+            "loadout_value": 2601
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 60,
+            "loadout_value": 1912
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 35,
+            "loadout_value": 1417
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 180,
+            "loadout_value": 1676
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 84,
+            "loadout_value": 3022
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 52,
+            "loadout_value": 4211
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 195,
+            "loadout_value": 3158
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 90,
+            "loadout_value": 2023
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 137,
+            "loadout_value": 3861
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 124,
+            "loadout_value": 1698
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 7,
+            "loadout_value": 2392
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 185,
+            "loadout_value": 1476
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Bind"
+        },
+        "match_id": "sample-match-3",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-04T17:00:00Z",
+        "game_length_in_ms": 1748410,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 2010,
+            "kills": 10,
+            "deaths": 16,
+            "assists": 2,
+            "headshots": 1,
+            "bodyshots": 14,
+            "legshots": 0,
+            "damage": 1678
+          },
+          "economy": {
+            "spent": 21211,
+            "loadout_value": 25363
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 542,
+            "kills": 20,
+            "deaths": 22,
+            "assists": 7,
+            "headshots": 6,
+            "bodyshots": 11,
+            "legshots": 2,
+            "damage": 2335
+          },
+          "economy": {
+            "spent": 22705,
+            "loadout_value": 20317
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 549,
+            "kills": 11,
+            "deaths": 18,
+            "assists": 2,
+            "headshots": 2,
+            "bodyshots": 5,
+            "legshots": 1,
+            "damage": 2816
+          },
+          "economy": {
+            "spent": 15333,
+            "loadout_value": 22496
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 738,
+            "kills": 9,
+            "deaths": 17,
+            "assists": 4,
+            "headshots": 9,
+            "bodyshots": 9,
+            "legshots": 2,
+            "damage": 2687
+          },
+          "economy": {
+            "spent": 24926,
+            "loadout_value": 29949
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 802,
+            "kills": 21,
+            "deaths": 10,
+            "assists": 5,
+            "headshots": 3,
+            "bodyshots": 14,
+            "legshots": 0,
+            "damage": 3277
+          },
+          "economy": {
+            "spent": 24433,
+            "loadout_value": 26149
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 388,
+            "kills": 17,
+            "deaths": 19,
+            "assists": 4,
+            "headshots": 3,
+            "bodyshots": 9,
+            "legshots": 0,
+            "damage": 4318
+          },
+          "economy": {
+            "spent": 15672,
+            "loadout_value": 25688
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 384,
+            "kills": 16,
+            "deaths": 18,
+            "assists": 6,
+            "headshots": 2,
+            "bodyshots": 11,
+            "legshots": 3,
+            "damage": 2432
+          },
+          "economy": {
+            "spent": 22102,
+            "loadout_value": 25934
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 761,
+            "kills": 10,
+            "deaths": 14,
+            "assists": 3,
+            "headshots": 10,
+            "bodyshots": 15,
+            "legshots": 2,
+            "damage": 4204
+          },
+          "economy": {
+            "spent": 22921,
+            "loadout_value": 27616
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 501,
+            "kills": 13,
+            "deaths": 21,
+            "assists": 4,
+            "headshots": 3,
+            "bodyshots": 9,
+            "legshots": 3,
+            "damage": 2998
+          },
+          "economy": {
+            "spent": 22613,
+            "loadout_value": 29336
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 542,
+            "kills": 8,
+            "deaths": 15,
+            "assists": 6,
+            "headshots": 4,
+            "bodyshots": 12,
+            "legshots": 1,
+            "damage": 3453
+          },
+          "economy": {
+            "spent": 19232,
+            "loadout_value": 25576
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 10,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 10
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 142,
+            "loadout_value": 841
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 21,
+            "loadout_value": 1788
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 142,
+            "loadout_value": 3905
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 165,
+            "loadout_value": 3715
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 23,
+            "loadout_value": 2005
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 78,
+            "loadout_value": 3519
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 141,
+            "loadout_value": 2974
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 90,
+            "loadout_value": 3678
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 64,
+            "loadout_value": 1744
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 80,
+            "loadout_value": 1289
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 49,
+            "loadout_value": 1686
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 185,
+            "loadout_value": 3214
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 25,
+            "loadout_value": 4210
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 92,
+            "loadout_value": 1534
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 70,
+            "loadout_value": 986
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 178,
+            "loadout_value": 4666
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 26,
+            "loadout_value": 4374
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 120,
+            "loadout_value": 2760
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 13,
+            "loadout_value": 1834
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 29,
+            "loadout_value": 4167
+          }
+        },
+        {
+          "id": 21,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 18,
+            "loadout_value": 3163
+          }
+        },
+        {
+          "id": 22,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 38,
+            "loadout_value": 1411
+          }
+        },
+        {
+          "id": 23,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 21,
+            "loadout_value": 1816
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Lotus"
+        },
+        "match_id": "sample-match-4",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-05T19:00:00Z",
+        "game_length_in_ms": 2423389,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 3883,
+            "kills": 17,
+            "deaths": 18,
+            "assists": 8,
+            "headshots": 4,
+            "bodyshots": 24,
+            "legshots": 0,
+            "damage": 3371
+          },
+          "economy": {
+            "spent": 15986,
+            "loadout_value": 29988
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 793,
+            "kills": 11,
+            "deaths": 18,
+            "assists": 4,
+            "headshots": 6,
+            "bodyshots": 15,
+            "legshots": 0,
+            "damage": 2643
+          },
+          "economy": {
+            "spent": 18929,
+            "loadout_value": 22847
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 345,
+            "kills": 14,
+            "deaths": 15,
+            "assists": 8,
+            "headshots": 6,
+            "bodyshots": 5,
+            "legshots": 1,
+            "damage": 3180
+          },
+          "economy": {
+            "spent": 19632,
+            "loadout_value": 27438
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 499,
+            "kills": 20,
+            "deaths": 20,
+            "assists": 4,
+            "headshots": 8,
+            "bodyshots": 6,
+            "legshots": 1,
+            "damage": 2610
+          },
+          "economy": {
+            "spent": 19352,
+            "loadout_value": 22330
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 524,
+            "kills": 17,
+            "deaths": 19,
+            "assists": 5,
+            "headshots": 9,
+            "bodyshots": 6,
+            "legshots": 3,
+            "damage": 3245
+          },
+          "economy": {
+            "spent": 21594,
+            "loadout_value": 24460
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 602,
+            "kills": 9,
+            "deaths": 17,
+            "assists": 1,
+            "headshots": 8,
+            "bodyshots": 10,
+            "legshots": 2,
+            "damage": 2105
+          },
+          "economy": {
+            "spent": 16496,
+            "loadout_value": 23750
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 690,
+            "kills": 8,
+            "deaths": 20,
+            "assists": 5,
+            "headshots": 2,
+            "bodyshots": 7,
+            "legshots": 3,
+            "damage": 4125
+          },
+          "economy": {
+            "spent": 22245,
+            "loadout_value": 24557
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 600,
+            "kills": 18,
+            "deaths": 21,
+            "assists": 8,
+            "headshots": 3,
+            "bodyshots": 12,
+            "legshots": 2,
+            "damage": 3672
+          },
+          "economy": {
+            "spent": 20460,
+            "loadout_value": 25260
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 538,
+            "kills": 14,
+            "deaths": 19,
+            "assists": 8,
+            "headshots": 6,
+            "bodyshots": 15,
+            "legshots": 3,
+            "damage": 4253
+          },
+          "economy": {
+            "spent": 15601,
+            "loadout_value": 27451
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 533,
+            "kills": 9,
+            "deaths": 20,
+            "assists": 7,
+            "headshots": 10,
+            "bodyshots": 5,
+            "legshots": 3,
+            "damage": 3692
+          },
+          "economy": {
+            "spent": 15888,
+            "loadout_value": 23073
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 10,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 10
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 160,
+            "loadout_value": 2610
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 68,
+            "loadout_value": 3049
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 112,
+            "loadout_value": 4407
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 7,
+            "loadout_value": 3380
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 181,
+            "loadout_value": 1448
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 141,
+            "loadout_value": 2471
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 118,
+            "loadout_value": 4679
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 127,
+            "loadout_value": 4620
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 106,
+            "loadout_value": 4219
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 62,
+            "loadout_value": 2670
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 48,
+            "loadout_value": 4575
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 17,
+            "loadout_value": 1931
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 87,
+            "loadout_value": 4626
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 0,
+            "loadout_value": 1958
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 38,
+            "loadout_value": 2629
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 85,
+            "loadout_value": 3060
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 116,
+            "loadout_value": 4620
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 178,
+            "loadout_value": 1778
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 198,
+            "loadout_value": 2482
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 180,
+            "loadout_value": 4541
+          }
+        },
+        {
+          "id": 21,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 169,
+            "loadout_value": 4045
+          }
+        },
+        {
+          "id": 22,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 126,
+            "loadout_value": 951
+          }
+        },
+        {
+          "id": 23,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 25,
+            "loadout_value": 4380
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Ascent"
+        },
+        "match_id": "sample-match-5",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-06T17:00:00Z",
+        "game_length_in_ms": 2078565,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 2238,
+            "kills": 10,
+            "deaths": 12,
+            "assists": 8,
+            "headshots": 4,
+            "bodyshots": 19,
+            "legshots": 0,
+            "damage": 1932
+          },
+          "economy": {
+            "spent": 21512,
+            "loadout_value": 21315
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 543,
+            "kills": 13,
+            "deaths": 18,
+            "assists": 8,
+            "headshots": 10,
+            "bodyshots": 5,
+            "legshots": 0,
+            "damage": 2961
+          },
+          "economy": {
+            "spent": 19708,
+            "loadout_value": 23727
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 385,
+            "kills": 20,
+            "deaths": 18,
+            "assists": 2,
+            "headshots": 9,
+            "bodyshots": 7,
+            "legshots": 2,
+            "damage": 2118
+          },
+          "economy": {
+            "spent": 15753,
+            "loadout_value": 25314
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 530,
+            "kills": 13,
+            "deaths": 14,
+            "assists": 3,
+            "headshots": 5,
+            "bodyshots": 13,
+            "legshots": 3,
+            "damage": 4318
+          },
+          "economy": {
+            "spent": 17950,
+            "loadout_value": 22785
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 543,
+            "kills": 17,
+            "deaths": 18,
+            "assists": 4,
+            "headshots": 9,
+            "bodyshots": 14,
+            "legshots": 1,
+            "damage": 2951
+          },
+          "economy": {
+            "spent": 22555,
+            "loadout_value": 24161
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 591,
+            "kills": 22,
+            "deaths": 12,
+            "assists": 3,
+            "headshots": 3,
+            "bodyshots": 12,
+            "legshots": 2,
+            "damage": 4406
+          },
+          "economy": {
+            "spent": 19901,
+            "loadout_value": 26951
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 499,
+            "kills": 11,
+            "deaths": 14,
+            "assists": 8,
+            "headshots": 3,
+            "bodyshots": 8,
+            "legshots": 3,
+            "damage": 4342
+          },
+          "economy": {
+            "spent": 20881,
+            "loadout_value": 29417
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 341,
+            "kills": 21,
+            "deaths": 18,
+            "assists": 7,
+            "headshots": 6,
+            "bodyshots": 5,
+            "legshots": 0,
+            "damage": 4483
+          },
+          "economy": {
+            "spent": 23138,
+            "loadout_value": 24689
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 671,
+            "kills": 20,
+            "deaths": 13,
+            "assists": 4,
+            "headshots": 5,
+            "bodyshots": 14,
+            "legshots": 2,
+            "damage": 2560
+          },
+          "economy": {
+            "spent": 16591,
+            "loadout_value": 20645
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 347,
+            "kills": 17,
+            "deaths": 13,
+            "assists": 3,
+            "headshots": 3,
+            "bodyshots": 9,
+            "legshots": 2,
+            "damage": 3701
+          },
+          "economy": {
+            "spent": 17877,
+            "loadout_value": 23289
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 9,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 9
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 135,
+            "loadout_value": 2855
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 65,
+            "loadout_value": 4543
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 75,
+            "loadout_value": 3857
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 119,
+            "loadout_value": 1108
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 173,
+            "loadout_value": 3766
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 142,
+            "loadout_value": 2298
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 3,
+            "loadout_value": 1883
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 94,
+            "loadout_value": 3555
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 149,
+            "loadout_value": 2360
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 27,
+            "loadout_value": 3564
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 158,
+            "loadout_value": 4421
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 156,
+            "loadout_value": 1706
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 179,
+            "loadout_value": 2037
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 35,
+            "loadout_value": 985
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 126,
+            "loadout_value": 1275
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 99,
+            "loadout_value": 2658
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 150,
+            "loadout_value": 3840
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 167,
+            "loadout_value": 1205
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 71,
+            "loadout_value": 934
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 113,
+            "loadout_value": 2621
+          }
+        },
+        {
+          "id": 21,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 25,
+            "loadout_value": 3608
+          }
+        },
+        {
+          "id": 22,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 15,
+            "loadout_value": 2430
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Bind"
+        },
+        "match_id": "sample-match-6",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-07T16:00:00Z",
+        "game_length_in_ms": 1942989,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 2666,
+            "kills": 12,
+            "deaths": 20,
+            "assists": 5,
+            "headshots": 4,
+            "bodyshots": 19,
+            "legshots": 0,
+            "damage": 2296
+          },
+          "economy": {
+            "spent": 17063,
+            "loadout_value": 29250
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 446,
+            "kills": 17,
+            "deaths": 11,
+            "assists": 4,
+            "headshots": 7,
+            "bodyshots": 7,
+            "legshots": 0,
+            "damage": 3135
+          },
+          "economy": {
+            "spent": 17370,
+            "loadout_value": 22129
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 391,
+            "kills": 18,
+            "deaths": 21,
+            "assists": 1,
+            "headshots": 4,
+            "bodyshots": 5,
+            "legshots": 2,
+            "damage": 2974
+          },
+          "economy": {
+            "spent": 24647,
+            "loadout_value": 25304
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 358,
+            "kills": 10,
+            "deaths": 19,
+            "assists": 7,
+            "headshots": 10,
+            "bodyshots": 6,
+            "legshots": 0,
+            "damage": 3950
+          },
+          "economy": {
+            "spent": 22344,
+            "loadout_value": 25931
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 583,
+            "kills": 16,
+            "deaths": 11,
+            "assists": 1,
+            "headshots": 10,
+            "bodyshots": 9,
+            "legshots": 3,
+            "damage": 2127
+          },
+          "economy": {
+            "spent": 15996,
+            "loadout_value": 27847
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 715,
+            "kills": 9,
+            "deaths": 15,
+            "assists": 8,
+            "headshots": 3,
+            "bodyshots": 6,
+            "legshots": 2,
+            "damage": 4491
+          },
+          "economy": {
+            "spent": 17430,
+            "loadout_value": 21076
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 686,
+            "kills": 17,
+            "deaths": 16,
+            "assists": 6,
+            "headshots": 8,
+            "bodyshots": 14,
+            "legshots": 2,
+            "damage": 3858
+          },
+          "economy": {
+            "spent": 23282,
+            "loadout_value": 29919
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 697,
+            "kills": 18,
+            "deaths": 22,
+            "assists": 4,
+            "headshots": 8,
+            "bodyshots": 12,
+            "legshots": 1,
+            "damage": 3694
+          },
+          "economy": {
+            "spent": 20553,
+            "loadout_value": 27430
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 506,
+            "kills": 14,
+            "deaths": 13,
+            "assists": 5,
+            "headshots": 7,
+            "bodyshots": 7,
+            "legshots": 3,
+            "damage": 2274
+          },
+          "economy": {
+            "spent": 16494,
+            "loadout_value": 21398
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 748,
+            "kills": 19,
+            "deaths": 13,
+            "assists": 3,
+            "headshots": 10,
+            "bodyshots": 5,
+            "legshots": 2,
+            "damage": 2500
+          },
+          "economy": {
+            "spent": 21730,
+            "loadout_value": 25793
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 9,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 9
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 184,
+            "loadout_value": 1010
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 90,
+            "loadout_value": 1224
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 39,
+            "loadout_value": 3489
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 89,
+            "loadout_value": 4262
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 195,
+            "loadout_value": 1941
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 143,
+            "loadout_value": 3943
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 155,
+            "loadout_value": 4605
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 7,
+            "loadout_value": 1538
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 86,
+            "loadout_value": 2237
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 144,
+            "loadout_value": 3492
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 189,
+            "loadout_value": 3393
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 191,
+            "loadout_value": 2972
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 116,
+            "loadout_value": 2196
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 184,
+            "loadout_value": 2128
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 13,
+            "loadout_value": 1437
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 172,
+            "loadout_value": 1134
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 124,
+            "loadout_value": 3286
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 55,
+            "loadout_value": 3892
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 110,
+            "loadout_value": 1254
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 134,
+            "loadout_value": 3532
+          }
+        },
+        {
+          "id": 21,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 101,
+            "loadout_value": 3254
+          }
+        },
+        {
+          "id": 22,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 77,
+            "loadout_value": 4672
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Bind"
+        },
+        "match_id": "sample-match-7",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-08T20:00:00Z",
+        "game_length_in_ms": 1847160,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 4126,
+            "kills": 20,
+            "deaths": 11,
+            "assists": 2,
+            "headshots": 5,
+            "bodyshots": 28,
+            "legshots": 0,
+            "damage": 3474
+          },
+          "economy": {
+            "spent": 18770,
+            "loadout_value": 28196
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 352,
+            "kills": 14,
+            "deaths": 21,
+            "assists": 1,
+            "headshots": 8,
+            "bodyshots": 5,
+            "legshots": 3,
+            "damage": 2318
+          },
+          "economy": {
+            "spent": 20129,
+            "loadout_value": 29433
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 695,
+            "kills": 18,
+            "deaths": 14,
+            "assists": 5,
+            "headshots": 3,
+            "bodyshots": 11,
+            "legshots": 0,
+            "damage": 3330
+          },
+          "economy": {
+            "spent": 17815,
+            "loadout_value": 27538
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 361,
+            "kills": 14,
+            "deaths": 21,
+            "assists": 2,
+            "headshots": 5,
+            "bodyshots": 11,
+            "legshots": 3,
+            "damage": 4146
+          },
+          "economy": {
+            "spent": 16288,
+            "loadout_value": 26484
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 432,
+            "kills": 13,
+            "deaths": 20,
+            "assists": 3,
+            "headshots": 3,
+            "bodyshots": 13,
+            "legshots": 0,
+            "damage": 4173
+          },
+          "economy": {
+            "spent": 23355,
+            "loadout_value": 23176
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 501,
+            "kills": 19,
+            "deaths": 21,
+            "assists": 3,
+            "headshots": 5,
+            "bodyshots": 6,
+            "legshots": 1,
+            "damage": 3048
+          },
+          "economy": {
+            "spent": 18232,
+            "loadout_value": 22842
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 409,
+            "kills": 20,
+            "deaths": 18,
+            "assists": 8,
+            "headshots": 9,
+            "bodyshots": 14,
+            "legshots": 3,
+            "damage": 4312
+          },
+          "economy": {
+            "spent": 20295,
+            "loadout_value": 25179
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 567,
+            "kills": 15,
+            "deaths": 18,
+            "assists": 5,
+            "headshots": 6,
+            "bodyshots": 14,
+            "legshots": 0,
+            "damage": 3441
+          },
+          "economy": {
+            "spent": 23312,
+            "loadout_value": 21215
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 333,
+            "kills": 8,
+            "deaths": 13,
+            "assists": 5,
+            "headshots": 3,
+            "bodyshots": 15,
+            "legshots": 0,
+            "damage": 4433
+          },
+          "economy": {
+            "spent": 23307,
+            "loadout_value": 26299
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 711,
+            "kills": 22,
+            "deaths": 8,
+            "assists": 8,
+            "headshots": 5,
+            "bodyshots": 10,
+            "legshots": 3,
+            "damage": 4053
+          },
+          "economy": {
+            "spent": 17471,
+            "loadout_value": 21013
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 8,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 8
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 182,
+            "loadout_value": 1145
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 10,
+            "loadout_value": 1814
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 134,
+            "loadout_value": 2941
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 95,
+            "loadout_value": 4559
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 198,
+            "loadout_value": 2185
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 161,
+            "loadout_value": 3451
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 24,
+            "loadout_value": 3085
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 64,
+            "loadout_value": 3764
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 85,
+            "loadout_value": 1133
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 89,
+            "loadout_value": 2070
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 33,
+            "loadout_value": 3237
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 79,
+            "loadout_value": 3089
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 32,
+            "loadout_value": 3544
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 165,
+            "loadout_value": 3546
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 4,
+            "loadout_value": 2285
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 87,
+            "loadout_value": 4681
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 57,
+            "loadout_value": 1363
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 25,
+            "loadout_value": 2879
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 169,
+            "loadout_value": 2179
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 152,
+            "loadout_value": 2343
+          }
+        },
+        {
+          "id": 21,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 177,
+            "loadout_value": 3958
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Sunset"
+        },
+        "match_id": "sample-match-8",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-09T17:00:00Z",
+        "game_length_in_ms": 2075784,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 3741,
+            "kills": 17,
+            "deaths": 17,
+            "assists": 6,
+            "headshots": 6,
+            "bodyshots": 30,
+            "legshots": 0,
+            "damage": 3213
+          },
+          "economy": {
+            "spent": 22684,
+            "loadout_value": 23178
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 550,
+            "kills": 15,
+            "deaths": 20,
+            "assists": 5,
+            "headshots": 8,
+            "bodyshots": 13,
+            "legshots": 3,
+            "damage": 2663
+          },
+          "economy": {
+            "spent": 18271,
+            "loadout_value": 29906
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 342,
+            "kills": 18,
+            "deaths": 15,
+            "assists": 6,
+            "headshots": 10,
+            "bodyshots": 6,
+            "legshots": 0,
+            "damage": 3167
+          },
+          "economy": {
+            "spent": 16374,
+            "loadout_value": 22626
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 392,
+            "kills": 21,
+            "deaths": 14,
+            "assists": 2,
+            "headshots": 5,
+            "bodyshots": 12,
+            "legshots": 2,
+            "damage": 2109
+          },
+          "economy": {
+            "spent": 21797,
+            "loadout_value": 20872
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 441,
+            "kills": 14,
+            "deaths": 9,
+            "assists": 6,
+            "headshots": 5,
+            "bodyshots": 5,
+            "legshots": 2,
+            "damage": 2405
+          },
+          "economy": {
+            "spent": 20493,
+            "loadout_value": 22392
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 567,
+            "kills": 19,
+            "deaths": 21,
+            "assists": 3,
+            "headshots": 9,
+            "bodyshots": 12,
+            "legshots": 0,
+            "damage": 2324
+          },
+          "economy": {
+            "spent": 15311,
+            "loadout_value": 24193
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 609,
+            "kills": 19,
+            "deaths": 17,
+            "assists": 7,
+            "headshots": 3,
+            "bodyshots": 9,
+            "legshots": 1,
+            "damage": 3233
+          },
+          "economy": {
+            "spent": 16996,
+            "loadout_value": 20782
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 560,
+            "kills": 9,
+            "deaths": 9,
+            "assists": 8,
+            "headshots": 10,
+            "bodyshots": 5,
+            "legshots": 1,
+            "damage": 2588
+          },
+          "economy": {
+            "spent": 19772,
+            "loadout_value": 27032
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 443,
+            "kills": 17,
+            "deaths": 14,
+            "assists": 3,
+            "headshots": 3,
+            "bodyshots": 13,
+            "legshots": 2,
+            "damage": 2277
+          },
+          "economy": {
+            "spent": 23618,
+            "loadout_value": 28914
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 611,
+            "kills": 8,
+            "deaths": 14,
+            "assists": 8,
+            "headshots": 2,
+            "bodyshots": 15,
+            "legshots": 3,
+            "damage": 3529
+          },
+          "economy": {
+            "spent": 19155,
+            "loadout_value": 20266
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 8
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": false,
+          "rounds": {
+            "won": 8,
+            "lost": 13
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 88,
+            "loadout_value": 1787
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 197,
+            "loadout_value": 3183
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 34,
+            "loadout_value": 981
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 164,
+            "loadout_value": 1517
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 178,
+            "loadout_value": 2760
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 16,
+            "loadout_value": 3732
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 9,
+            "loadout_value": 2001
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 10,
+            "loadout_value": 2092
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 139,
+            "loadout_value": 2739
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 73,
+            "loadout_value": 2262
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 167,
+            "loadout_value": 2159
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 111,
+            "loadout_value": 4443
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 98,
+            "loadout_value": 2188
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 177,
+            "loadout_value": 2837
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 21,
+            "loadout_value": 3778
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 154,
+            "loadout_value": 4168
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 82,
+            "loadout_value": 1220
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 78,
+            "loadout_value": 2626
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 42,
+            "loadout_value": 3625
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 10,
+            "loadout_value": 3777
+          }
+        },
+        {
+          "id": 21,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 157,
+            "loadout_value": 2581
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Sunset"
+        },
+        "match_id": "sample-match-9",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-10T21:00:00Z",
+        "game_length_in_ms": 1834914,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 2428,
+            "kills": 12,
+            "deaths": 20,
+            "assists": 8,
+            "headshots": 3,
+            "bodyshots": 21,
+            "legshots": 0,
+            "damage": 2032
+          },
+          "economy": {
+            "spent": 24954,
+            "loadout_value": 27179
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 399,
+            "kills": 20,
+            "deaths": 18,
+            "assists": 6,
+            "headshots": 7,
+            "bodyshots": 11,
+            "legshots": 0,
+            "damage": 4478
+          },
+          "economy": {
+            "spent": 17513,
+            "loadout_value": 27371
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 499,
+            "kills": 20,
+            "deaths": 9,
+            "assists": 3,
+            "headshots": 10,
+            "bodyshots": 10,
+            "legshots": 3,
+            "damage": 3287
+          },
+          "economy": {
+            "spent": 19566,
+            "loadout_value": 24089
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 642,
+            "kills": 10,
+            "deaths": 15,
+            "assists": 7,
+            "headshots": 10,
+            "bodyshots": 6,
+            "legshots": 2,
+            "damage": 3066
+          },
+          "economy": {
+            "spent": 22311,
+            "loadout_value": 23515
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 621,
+            "kills": 22,
+            "deaths": 15,
+            "assists": 4,
+            "headshots": 3,
+            "bodyshots": 7,
+            "legshots": 0,
+            "damage": 3851
+          },
+          "economy": {
+            "spent": 17828,
+            "loadout_value": 27292
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 608,
+            "kills": 13,
+            "deaths": 19,
+            "assists": 2,
+            "headshots": 10,
+            "bodyshots": 13,
+            "legshots": 2,
+            "damage": 3228
+          },
+          "economy": {
+            "spent": 17580,
+            "loadout_value": 22852
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 393,
+            "kills": 9,
+            "deaths": 11,
+            "assists": 3,
+            "headshots": 5,
+            "bodyshots": 12,
+            "legshots": 0,
+            "damage": 3478
+          },
+          "economy": {
+            "spent": 24077,
+            "loadout_value": 29376
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 347,
+            "kills": 17,
+            "deaths": 22,
+            "assists": 2,
+            "headshots": 3,
+            "bodyshots": 9,
+            "legshots": 3,
+            "damage": 3960
+          },
+          "economy": {
+            "spent": 23612,
+            "loadout_value": 26730
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 319,
+            "kills": 10,
+            "deaths": 13,
+            "assists": 2,
+            "headshots": 9,
+            "bodyshots": 12,
+            "legshots": 2,
+            "damage": 2525
+          },
+          "economy": {
+            "spent": 24032,
+            "loadout_value": 29630
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 494,
+            "kills": 16,
+            "deaths": 22,
+            "assists": 1,
+            "headshots": 3,
+            "bodyshots": 13,
+            "legshots": 1,
+            "damage": 3245
+          },
+          "economy": {
+            "spent": 17697,
+            "loadout_value": 22653
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 6,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 6
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 88,
+            "loadout_value": 4680
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 20,
+            "loadout_value": 1826
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 32,
+            "loadout_value": 3360
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 128,
+            "loadout_value": 3425
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 43,
+            "loadout_value": 3498
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 144,
+            "loadout_value": 968
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 20,
+            "loadout_value": 986
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 166,
+            "loadout_value": 1663
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 158,
+            "loadout_value": 3417
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 164,
+            "loadout_value": 2037
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 76,
+            "loadout_value": 2657
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 40,
+            "loadout_value": 2600
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 52,
+            "loadout_value": 2193
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 183,
+            "loadout_value": 2107
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 102,
+            "loadout_value": 1335
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 81,
+            "loadout_value": 1790
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 115,
+            "loadout_value": 1815
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 74,
+            "loadout_value": 4672
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 63,
+            "loadout_value": 4344
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Haven"
+        },
+        "match_id": "sample-match-10",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-11T15:00:00Z",
+        "game_length_in_ms": 1987001,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 4098,
+            "kills": 20,
+            "deaths": 13,
+            "assists": 4,
+            "headshots": 5,
+            "bodyshots": 30,
+            "legshots": 0,
+            "damage": 3443
+          },
+          "economy": {
+            "spent": 16475,
+            "loadout_value": 26442
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 492,
+            "kills": 17,
+            "deaths": 13,
+            "assists": 1,
+            "headshots": 2,
+            "bodyshots": 9,
+            "legshots": 3,
+            "damage": 4447
+          },
+          "economy": {
+            "spent": 22710,
+            "loadout_value": 24681
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 624,
+            "kills": 10,
+            "deaths": 22,
+            "assists": 5,
+            "headshots": 7,
+            "bodyshots": 11,
+            "legshots": 2,
+            "damage": 2185
+          },
+          "economy": {
+            "spent": 21563,
+            "loadout_value": 20838
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 580,
+            "kills": 16,
+            "deaths": 12,
+            "assists": 2,
+            "headshots": 8,
+            "bodyshots": 13,
+            "legshots": 3,
+            "damage": 4252
+          },
+          "economy": {
+            "spent": 19582,
+            "loadout_value": 21946
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 600,
+            "kills": 13,
+            "deaths": 20,
+            "assists": 6,
+            "headshots": 10,
+            "bodyshots": 10,
+            "legshots": 1,
+            "damage": 2815
+          },
+          "economy": {
+            "spent": 24870,
+            "loadout_value": 28341
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 386,
+            "kills": 8,
+            "deaths": 10,
+            "assists": 6,
+            "headshots": 9,
+            "bodyshots": 13,
+            "legshots": 3,
+            "damage": 2610
+          },
+          "economy": {
+            "spent": 24932,
+            "loadout_value": 28446
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 554,
+            "kills": 10,
+            "deaths": 14,
+            "assists": 5,
+            "headshots": 7,
+            "bodyshots": 13,
+            "legshots": 3,
+            "damage": 4305
+          },
+          "economy": {
+            "spent": 19911,
+            "loadout_value": 27780
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 561,
+            "kills": 18,
+            "deaths": 9,
+            "assists": 7,
+            "headshots": 6,
+            "bodyshots": 15,
+            "legshots": 0,
+            "damage": 4444
+          },
+          "economy": {
+            "spent": 22775,
+            "loadout_value": 24350
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 712,
+            "kills": 11,
+            "deaths": 19,
+            "assists": 1,
+            "headshots": 9,
+            "bodyshots": 7,
+            "legshots": 3,
+            "damage": 2605
+          },
+          "economy": {
+            "spent": 18968,
+            "loadout_value": 20517
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 475,
+            "kills": 8,
+            "deaths": 15,
+            "assists": 6,
+            "headshots": 8,
+            "bodyshots": 7,
+            "legshots": 3,
+            "damage": 2835
+          },
+          "economy": {
+            "spent": 21723,
+            "loadout_value": 28221
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 11,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 11
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 188,
+            "loadout_value": 3779
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 132,
+            "loadout_value": 1649
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 134,
+            "loadout_value": 2343
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 117,
+            "loadout_value": 4536
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 173,
+            "loadout_value": 3962
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": false,
+            "damage": 156,
+            "loadout_value": 2783
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 71,
+            "loadout_value": 3085
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 197,
+            "loadout_value": 1983
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 81,
+            "loadout_value": 2765
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 73,
+            "loadout_value": 1299
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 101,
+            "loadout_value": 4152
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 74,
+            "loadout_value": 972
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 88,
+            "loadout_value": 4584
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 191,
+            "loadout_value": 2762
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 143,
+            "loadout_value": 3651
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 157,
+            "loadout_value": 3834
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 12,
+            "loadout_value": 3543
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 163,
+            "loadout_value": 1753
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 84,
+            "loadout_value": 3738
+          }
+        },
+        {
+          "id": 20,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 1,
+            "loadout_value": 3054
+          }
+        },
+        {
+          "id": 21,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 104,
+            "loadout_value": 3474
+          }
+        },
+        {
+          "id": 22,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 122,
+            "loadout_value": 3464
+          }
+        },
+        {
+          "id": 23,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 82,
+            "loadout_value": 1969
+          }
+        },
+        {
+          "id": 24,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 166,
+            "loadout_value": 3151
+          }
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "map": {
+          "id": "map-id",
+          "name": "Lotus"
+        },
+        "match_id": "sample-match-11",
+        "queue": {
+          "name": "Competitive"
+        },
+        "started_at": "2026-06-12T20:00:00Z",
+        "game_length_in_ms": 1641119,
+        "is_completed": true
+      },
+      "players": [
+        {
+          "name": "SampleAgent",
+          "tag": "NA1",
+          "puuid": "sample-puuid-0000",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 3234,
+            "kills": 15,
+            "deaths": 16,
+            "assists": 4,
+            "headshots": 6,
+            "bodyshots": 15,
+            "legshots": 0,
+            "damage": 2761
+          },
+          "economy": {
+            "spent": 19742,
+            "loadout_value": 20613
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op0",
+          "tag": "NA1",
+          "puuid": "puuid-Op0",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 577,
+            "kills": 9,
+            "deaths": 22,
+            "assists": 6,
+            "headshots": 6,
+            "bodyshots": 12,
+            "legshots": 3,
+            "damage": 2549
+          },
+          "economy": {
+            "spent": 23261,
+            "loadout_value": 27668
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op1",
+          "tag": "NA1",
+          "puuid": "puuid-Op1",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Jett"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 444,
+            "kills": 10,
+            "deaths": 19,
+            "assists": 8,
+            "headshots": 6,
+            "bodyshots": 7,
+            "legshots": 0,
+            "damage": 3380
+          },
+          "economy": {
+            "spent": 19833,
+            "loadout_value": 29302
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op2",
+          "tag": "NA1",
+          "puuid": "puuid-Op2",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 368,
+            "kills": 17,
+            "deaths": 21,
+            "assists": 7,
+            "headshots": 8,
+            "bodyshots": 13,
+            "legshots": 2,
+            "damage": 2355
+          },
+          "economy": {
+            "spent": 21567,
+            "loadout_value": 21562
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op3",
+          "tag": "NA1",
+          "puuid": "puuid-Op3",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 516,
+            "kills": 13,
+            "deaths": 22,
+            "assists": 4,
+            "headshots": 2,
+            "bodyshots": 9,
+            "legshots": 3,
+            "damage": 2964
+          },
+          "economy": {
+            "spent": 22319,
+            "loadout_value": 24374
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op4",
+          "tag": "NA1",
+          "puuid": "puuid-Op4",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Omen"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 568,
+            "kills": 19,
+            "deaths": 17,
+            "assists": 1,
+            "headshots": 6,
+            "bodyshots": 15,
+            "legshots": 2,
+            "damage": 2967
+          },
+          "economy": {
+            "spent": 16017,
+            "loadout_value": 21936
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op5",
+          "tag": "NA1",
+          "puuid": "puuid-Op5",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Sova"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 480,
+            "kills": 18,
+            "deaths": 16,
+            "assists": 5,
+            "headshots": 3,
+            "bodyshots": 15,
+            "legshots": 2,
+            "damage": 3505
+          },
+          "economy": {
+            "spent": 18618,
+            "loadout_value": 23590
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op6",
+          "tag": "NA1",
+          "puuid": "puuid-Op6",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Reyna"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 359,
+            "kills": 15,
+            "deaths": 19,
+            "assists": 6,
+            "headshots": 8,
+            "bodyshots": 13,
+            "legshots": 3,
+            "damage": 4201
+          },
+          "economy": {
+            "spent": 18578,
+            "loadout_value": 24054
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op7",
+          "tag": "NA1",
+          "puuid": "puuid-Op7",
+          "team_id": "Blue",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 323,
+            "kills": 16,
+            "deaths": 15,
+            "assists": 6,
+            "headshots": 3,
+            "bodyshots": 14,
+            "legshots": 0,
+            "damage": 2252
+          },
+          "economy": {
+            "spent": 23972,
+            "loadout_value": 28281
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        },
+        {
+          "name": "Op8",
+          "tag": "NA1",
+          "puuid": "puuid-Op8",
+          "team_id": "Red",
+          "agent": {
+            "id": "agent-id",
+            "name": "Killjoy"
+          },
+          "tier": {
+            "id": 15,
+            "name": "Diamond 1"
+          },
+          "stats": {
+            "score": 357,
+            "kills": 10,
+            "deaths": 13,
+            "assists": 8,
+            "headshots": 3,
+            "bodyshots": 15,
+            "legshots": 1,
+            "damage": 4388
+          },
+          "economy": {
+            "spent": 23008,
+            "loadout_value": 21489
+          },
+          "behavior": {
+            "afk_rounds": 0,
+            "friendly_fire": 0,
+            "rounds_in_spawn": 0
+          }
+        }
+      ],
+      "teams": [
+        {
+          "team_id": "Red",
+          "won": false,
+          "rounds": {
+            "won": 6,
+            "lost": 13
+          }
+        },
+        {
+          "team_id": "Blue",
+          "won": true,
+          "rounds": {
+            "won": 13,
+            "lost": 6
+          }
+        }
+      ],
+      "rounds": [
+        {
+          "id": 1,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 14,
+            "loadout_value": 2657
+          }
+        },
+        {
+          "id": 2,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 116,
+            "loadout_value": 3109
+          }
+        },
+        {
+          "id": 3,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 172,
+            "loadout_value": 4105
+          }
+        },
+        {
+          "id": 4,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 0,
+            "died": true,
+            "damage": 101,
+            "loadout_value": 1842
+          }
+        },
+        {
+          "id": 5,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 148,
+            "loadout_value": 1099
+          }
+        },
+        {
+          "id": 6,
+          "winning_team": "Red",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 179,
+            "loadout_value": 1061
+          }
+        },
+        {
+          "id": 7,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 17,
+            "loadout_value": 4624
+          }
+        },
+        {
+          "id": 8,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 104,
+            "loadout_value": 1537
+          }
+        },
+        {
+          "id": 9,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 95,
+            "loadout_value": 4450
+          }
+        },
+        {
+          "id": 10,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 96,
+            "loadout_value": 1128
+          }
+        },
+        {
+          "id": 11,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 167,
+            "loadout_value": 4323
+          }
+        },
+        {
+          "id": 12,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 137,
+            "loadout_value": 2409
+          }
+        },
+        {
+          "id": 13,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 0,
+            "loadout_value": 3897
+          }
+        },
+        {
+          "id": 14,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 2,
+            "died": true,
+            "damage": 118,
+            "loadout_value": 3558
+          }
+        },
+        {
+          "id": 15,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": false,
+            "damage": 136,
+            "loadout_value": 2353
+          }
+        },
+        {
+          "id": 16,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": false,
+            "damage": 117,
+            "loadout_value": 2217
+          }
+        },
+        {
+          "id": 17,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 1,
+            "died": true,
+            "damage": 185,
+            "loadout_value": 3935
+          }
+        },
+        {
+          "id": 18,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 3,
+            "died": true,
+            "damage": 157,
+            "loadout_value": 3937
+          }
+        },
+        {
+          "id": 19,
+          "winning_team": "Blue",
+          "player_stats": {
+            "kills": 0,
+            "died": false,
+            "damage": 61,
+            "loadout_value": 1644
+          }
+        }
+      ]
+    }
+  ]
+}
