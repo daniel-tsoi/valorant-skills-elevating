@@ -430,15 +430,36 @@ class DataLoader:
                 }
             )
 
+            player_puuid = player.get("puuid")
+            died_in_round = {
+                kill.get("round")
+                for kill in match.get("kills", [])
+                if kill.get("victim", {}).get("puuid") == player_puuid
+            }
+
             match_rounds = []
             for rnd in match.get("rounds", []):
-                player_stats = rnd.get("player_stats", {})
+                round_id = rnd.get("id")
+                # Real API: round["stats"] is a list with one entry per player (not
+                # a single "player_stats" dict) — find ours by puuid.
+                per_round = next(
+                    (
+                        s
+                        for s in rnd.get("stats", [])
+                        if s.get("player", {}).get("puuid") == player_puuid
+                    ),
+                    {},
+                )
                 match_rounds.append(
                     {
-                        "id": rnd.get("id"),
+                        "id": round_id,
                         "winning_team": rnd.get("winning_team"),
                         "player_team": team_id,
-                        "player_stats": player_stats,
+                        "player_stats": {
+                            "kills": per_round.get("stats", {}).get("kills", 0),
+                            "died": round_id in died_in_round,
+                            "loadout_value": per_round.get("economy", {}).get("loadout_value", 0),
+                        },
                     }
                 )
             rounds_by_match[meta.get("match_id")] = match_rounds
